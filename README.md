@@ -1,4 +1,12 @@
 # Angular Tutorial: Learn Angular from scratch step by step
+ ```sh
+  _        _    _____ ____           __        _______ ____  
+| |      / \  |  ___/ ___|          \ \      / / ____| __ ) 
+| |     / _ \ | |_  \___ \   _____   \ \ /\ / /|  _| |  _ \ 
+| |___ / ___ \|  _|  ___) | |_____|   \ V  V / | |___| |_) |
+|_____/_/   \_\_|   |____/             \_/\_/  |_____|____/ 
+ ```
+
 
 This project is part of Learn Angular from scratch step by step tutorial where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.
 
